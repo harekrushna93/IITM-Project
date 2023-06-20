@@ -25,4 +25,6 @@ are compared with flux tower data. In this procedure, the results were good for 
 which models are trained but required much improvement for other sites. Next, we train
 models on five sites. The input data were reanalysis data and the target variable was LE
 estimated by flux tower. This procedure has shown promise in estimating latent heat flux
-from reanalysis data.
+from reanalysis data.  
+The outputs of the mmodel are shown in the figures.
+![Alt Text]()
