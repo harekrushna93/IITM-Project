@@ -26,5 +26,23 @@ which models are trained but required much improvement for other sites. Next, we
 models on five sites. The input data were reanalysis data and the target variable was LE
 estimated by flux tower. This procedure has shown promise in estimating latent heat flux
 from reanalysis data.  
+We have studied the effectiveness of machine learning-based algorithms for predicting latent
+heat flux using reanalysis data at different sites in the tropical region. The purpose of using
+reanalysis data for prediction was that it is easily available to all. Two methods are adopted
+with five algorithms each for the prediction of LE. We have built five models in method-I,
+and out of the five models, the SVM regression model has the best prediction values. The
+R2 score of the model was 0.9 and the RMSE between predicted LE values and ground-
+adjusted LE was 16.2 W m−2 during the period 2000 − 2021. The RMSE between predicted
+LE values and Flux tower estimation LE was 16.8 W m−2 during the period 2016 − 2018.
+The LE values more than 95 W m−2 can not be captured. The method-I is more focused on
+a single site: KNP, whereas Method II is more general than method-I. The performance of
+models in method-I can be improved by increasing the training dataset size and accuracy
+of the input variables. This method can be applied to the KNP site only. The method-II
+can be applied to more than one side. The site selection for method II plays an important
+role in the performance of models. The similarity in climate conditions, elevations, and the
+LE value ranges is needed in method II to enhance the estimation results. If the number of
+sites is large, the similarity conditions can be omitted by adding vegetation type, soil type,
+climate type, etc to input features for estimations. In conclusion, data-driven methods offer
+a potential means to predict the Latent Heat Flux using reanalysis data.
 
 
