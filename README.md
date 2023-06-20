@@ -28,4 +28,4 @@ estimated by flux tower. This procedure has shown promise in estimating latent h
 from reanalysis data.  
 The outputs of the mmodel are shown in the figures.  
 
-![Alt Text]("IITM-Project/Reasult/predicted_LE_bu SVm.png")
+![Alt Text](predicted_LE_bu SVm.png)
