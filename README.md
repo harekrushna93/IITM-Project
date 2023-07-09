@@ -1,5 +1,7 @@
 # IITM-Project
-Due to data provider policy, we are not able to share flux tower data. The data flolder contains only reanalysis data for KNP site. The other site data can be download from IMDAA \n(https://rds.ncmrwf.gov.in/dashboard/download) and ERA5 (https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview). The MODIS satellite data can be download from https://modis.gsfc.nasa.gov/data/.  
+Due to data provider policy, we are not able to share flux tower data. The data folder contains only reanalysis data for the KNP site. The other site data can be download from IMDAA \n(https://rds.ncmrwf.gov.in/dashboard/download) and ERA5 (https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview). The MODIS satellite data can be downloaded from https://modis.gsfc.nasa.gov/data/.  
+
+
 Latent heat flux (LE) is a fundamental component in the study of Earth’s energy balance
 and the exchange of energy and water between the Earth’s surface and the atmosphere. It
 refers to the amount of energy that is transferred from the surface to the atmosphere through
